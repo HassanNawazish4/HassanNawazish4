@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Hassan Nawazish</h1>
+<h3 align="center">An Engineer who is working on Software Architecture and Autonomous Vehicle Testing and simulation. </h3>
 
-<!--
-**HassanNawazish4/HassanNawazish4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">  </br> C++, C, Python, MATLAB, and JavaScript are my go-to tools for building innovative solutions and tackling complex problems. These languages form the core of my software engineering journey, enabling me to create powerful, efficient, and scalable systems.</br>
+ </br> I am a software Developer with Engineering background and focused on Research and Development of Automotive Vehicle systems, cutting-edge software technologies.</br>
+</p>
 
-Here are some ideas to get you started:
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassannawazish&show_icons=true&locale=en&layout=compact" alt="Hassannawazish" /></p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hassannawazish&rank=SECRET,HHHHH,H,AAA,AA,A,B,C&margin-w=15&margin-h=15" alt="Hassannawazish" /></a>
+
+
+
+ <p align="center">
+ GitHub Stats:
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassannawazish&hide_border=true&include_all_commits=true&count_private=true&layout=compact)   ![](https://github-readme-streak-stats.herokuapp.com/?user=Hassannawazish&hide_border=true&starting_year=2020)
+</p>
+
+
+<h4 align="center">Let's connect and build great things together!</h4>
+<p align="center">
+<a href="https://www.linkedin.com/in/hassan-nawazish-728992161/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Hassan Nawazish" height="20" width="30" /></a>
+  <a href="mailto:hassannawazishrasool1@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Somaya Elbaradey" height="20" width="30" /></a>
+</p>
